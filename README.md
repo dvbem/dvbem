@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvbem
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning JavaScript and python
-- 💞️ I’m looking to learn and improve
+- 🌱 I’m a fullstack developer 
+- 💞️ I’m looking forward to learn and improve
 - 📫 How to reach me: amujijp@gmail.com (+2349035450829)
 
 <!---
